@@ -384,7 +384,7 @@ djangorestframework-inclusions==1.2.0
     #   -r requirements/ci.txt
 djangorestframework-stubs==3.18.1
     # via -r requirements/type-checking.in
-dnspython==2.8.0
+dnspython==2.9.0
     # via
     #   -c requirements/ci.txt
     #   -r requirements/ci.txt
